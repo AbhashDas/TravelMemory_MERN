@@ -1,5 +1,7 @@
 # Travel Memory
 
+For User documentation, please refer: Travel_Memory_userdoc.docx
+
 `.env` file to work with the backend after creating a database in mongodb: 
 
 ```
